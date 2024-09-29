@@ -1,9 +1,9 @@
 ## Morteza Shahbazi
 
+#### Python Developer
 
-
-<div>
-        <img src="./python.webp" alt="python" width="300" height="300">
+<div style="text-align: center;">
+        <img src="./python.webp" alt="python" width="200" height="200">
 </div>
 
 
